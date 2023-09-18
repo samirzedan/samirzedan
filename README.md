@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samirzedan
 - 👀 I’m interested in back-end Web Development, more specifically in PHP, Laravel and MySQL
-- 📚 I'm currently studying Computer Engineering
+- 📚 I'm currently studying Systems Analysis and Development
 <!-- - 📫 How to reach me ... -->
 
 <!---
