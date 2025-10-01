@@ -26,14 +26,14 @@ Desenvolvedor Backend com 3 anos de experiência, especializado no desenvolvimen
  
   <img src="https://img.shields.io/badge/Java-3A75B0?logo=java&logoColor=white" alt="Java"/>
   
-  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
   
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/>
   
+  <img src="https://img.shields.io/badge/MongoDB-0B684A?logo=mongodb&logoColor=white" alt="MongoDB"/>
+
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
 
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular"/>
