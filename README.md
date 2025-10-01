@@ -51,5 +51,5 @@ Desenvolvedor Backend com 3 anos de experiência, especializado no desenvolvimen
 
 ### 📫 Contato
 
-<a href="URL_DO_SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/samir-trentini-zedan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:contato@samirdev.com.br" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
